@@ -1,0 +1,34 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Virtual environments
+.venv/
+ui/.venv/
+venv/
+env/
+
+# Environment/secrets
+.env
+.env.*
+
+# Git / IDE
+.git/
+.gitignore
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Streamlit local files
+.streamlit/
+ui/.streamlit/
+
+# Logs/results
+*.log
+evals/eval_results.json
