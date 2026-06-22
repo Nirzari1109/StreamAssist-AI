@@ -1,0 +1,8 @@
+{
+  "id": "kb-002",
+  "title": "Troubleshooting Streaming Quality Issues",
+  "keywords": ["buffering", "quality", "slow", "loading", "stream", "video quality", "hd", "4k"],
+  "content": "If you're experiencing streaming quality issues: 1) Check your internet speed — we recommend at least 5 Mbps for HD and 25 Mbps for 4K. 2) Restart your router and device. 3) Close other bandwidth-heavy apps. 4) In the player, go to Settings > Quality and try a lower setting. 5) Clear your browser cache or reinstall the app. If issues persist, contact support with your device type and error message.",
+  "source": "StreamAssist Help Center",
+  "last_updated": "2025-01-10"
+}
